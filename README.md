@@ -6,4 +6,4 @@ Advanced tcp chat application for python users. project nax includes mod panel t
 
 # note. Do not know what this does yet, but it sounds interesting.
 
-Maybe, I will try it after work.
+Maybe I will try it after work.
