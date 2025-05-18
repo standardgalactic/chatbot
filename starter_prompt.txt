@@ -1,0 +1,1 @@
+What is the purpose of a null-wavefront in Null Convention Logic? Be sure to incorporate how it is Markov blanket distinguishing completed functions and those that are emitting nonsense.
